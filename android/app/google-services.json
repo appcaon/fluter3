@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "82342958619",
+    "project_id": "beautysalons-9a815",
+    "storage_bucket": "beautysalons-9a815.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82342958619:android:5d2afd95efb2fab7a08abe",
+        "android_client_info": {
+          "package_name": "com.smartersvision.beauty_salons"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82342958619-0tt7ca2s9hbtcho1kh2bpl0omns9o23t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartersvision.beauty_salons",
+            "certificate_hash": "12bbf8e25752b28535e857994fa30ba36641e0f0"
+          }
+        },
+        {
+          "client_id": "82342958619-3t21nu75klsc22oqi39qf591urj6c1pq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzQDWAcKmrRNlSl2k36HSIEGAW5VGu_QI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82342958619-3t21nu75klsc22oqi39qf591urj6c1pq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
